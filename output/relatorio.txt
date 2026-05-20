@@ -1,0 +1,26 @@
+========== RELATÓRIO DE ANÁLISE NETFLIX ==========
+
+1. TÍTULO COM DESCRIÇÃO MAIS LONGA:
+   Título: Billu
+   Palavras: 47
+
+2. TÍTULO COM DESCRIÇÃO MAIS CURTA:
+   Título: WHAT DID JACK DO?
+   Palavras: 10
+
+3. TOTAL DE PALAVRAS:
+   209390 palavras
+
+4. TOP 5 PALAVRAS MAIS FREQUENTES:
+   1. after: 990 vezes
+   2. life: 765 vezes
+   3. young: 726 vezes
+   4. into: 698 vezes
+   5. new: 675 vezes
+
+5. TOP 5 PALAVRAS MENOS FREQUENTES:
+   1. unavailable: 1 vezes
+   2. cantabria: 1 vezes
+   3. allmarionette: 1 vezes
+   4. clinton: 1 vezes
+   5. pollution: 1 vezes
